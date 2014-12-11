@@ -1,0 +1,6 @@
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
+fuel/vendor/
+fuel/app/config/db.php
+.idea
+composer.lock
